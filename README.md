@@ -314,36 +314,17 @@ The `user_id` foreign key references `AUTH_USERS(id)` with `ON DELETE CASCADE`.
 ## 11. Screenshots of the Working Project
 
 Insert actual screenshots from the CardioXAI application in the following sections.
+![LANDING PAGE](system screenshot/image-1.png)
+![LANDING PAGE 2]( system screenshot/image.png)
+![AUTHENTICATION PAGE](system screenshot/image-2.png)
+![USER DASHBOARD](system screenshot/image-3.png)
+![SYMPTOMS INPUT PAGE](system screenshot/image-4.png)
+![PAST ASSESSMENT PAGE](system screenshot/image-5.png)
+![USER RESULT REPORT](system screenshot/image-6.png)
+![USER RESULT REPORT]( system screenshot/image-7.png)
 
-### 11.1 Landing Page
 
-[Insert Landing Page Screenshot]
 
-### 11.2 Authentication Page
-
-[Insert Login / Registration Screenshot]
-
-### 11.3 User Dashboard
-
-[Insert Dashboard Screenshot]
-
-### 11.4 Heart Disease Prediction Form
-
-[Insert Prediction Form Screenshot]
-
-### 11.5 Prediction Results and Explainability
-
-[Insert Risk Result and SHAP/LIME Screenshot]
-
-### 11.6 Prediction History
-
-[Insert Prediction History Screenshot]
-
-### 11.7 Downloadable Assessment Report
-
-[Insert Generated Report Screenshot]
-
-For GitHub, store screenshots in an `assets/screenshots/` directory and reference them using relative Markdown image paths.
 
 ## 12. Team Members' Names and Enrollment Numbers
 
@@ -366,11 +347,3 @@ For GitHub, store screenshots in an `assets/screenshots/` directory and referenc
 
 CardioXAI is an academic project intended for educational purposes and cardiovascular risk awareness. The generated predictions are statistical estimates based on the trained model and should not be interpreted as a medical diagnosis, treatment recommendation, or replacement for professional healthcare advice.
 
-![LANDING PAGE](image-1.png)
-![LANDING PAGE 2](image.png)
-![AUTHENTICATION PAGE](image-2.png)
-![USER DASHBOARD](image-3.png)
-![SYMPTOMS INPUT PAGE](image-4.png)
-![PAST ASSESSMENT PAGE](image-5.png)
-![USER RESULT REPORT](image-6.png)
-![USER RESULT REPORT](image-7.png)
