@@ -365,3 +365,12 @@ For GitHub, store screenshots in an `assets/screenshots/` directory and referenc
 ### Disclaimer
 
 CardioXAI is an academic project intended for educational purposes and cardiovascular risk awareness. The generated predictions are statistical estimates based on the trained model and should not be interpreted as a medical diagnosis, treatment recommendation, or replacement for professional healthcare advice.
+
+![LANDING PAGE](image-1.png)
+![LANDING PAGE 2](image.png)
+![AUTHENTICATION PAGE](image-2.png)
+![USER DASHBOARD](image-3.png)
+![SYMPTOMS INPUT PAGE](image-4.png)
+![PAST ASSESSMENT PAGE](image-5.png)
+![USER RESULT REPORT](image-6.png)
+![USER RESULT REPORT](image-7.png)
