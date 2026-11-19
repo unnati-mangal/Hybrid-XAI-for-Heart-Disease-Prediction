@@ -313,15 +313,51 @@ The `user_id` foreign key references `AUTH_USERS(id)` with `ON DELETE CASCADE`.
 
 ## 11. Screenshots of the Working Project
 
-Insert actual screenshots from the CardioXAI application in the following sections.
-![LANDING PAGE](system screenshot/image-1.png)
-![LANDING PAGE 2]( system screenshot/image.png)
-![AUTHENTICATION PAGE](system screenshot/image-2.png)
-![USER DASHBOARD](system screenshot/image-3.png)
-![SYMPTOMS INPUT PAGE](system screenshot/image-4.png)
-![PAST ASSESSMENT PAGE](system screenshot/image-5.png)
-![USER RESULT REPORT](system screenshot/image-6.png)
-![USER RESULT REPORT]( system screenshot/image-7.png)
+
+## 11. Screenshots of the Working Project
+
+The following screenshots demonstrate the working modules and user interface of CardioXAI.
+
+### 11.1 Landing Page
+
+The landing page introduces CardioXAI and provides an overview of its key functionalities.
+
+![CardioXAI Landing Page](system-screenshots/image-1.png)
+
+![CardioXAI Landing Page - Additional View](system-screenshots/image.png)
+
+### 11.2 Authentication Page
+
+The authentication page allows users to register and log in to access the application.
+
+![Authentication Page](system-screenshots/image-2.png)
+
+### 11.3 User Dashboard
+
+The dashboard provides access to heart disease risk prediction, assessment history, and other features.
+
+![User Dashboard](system-screenshots/image-3.png)
+
+### 11.4 Clinical and Lifestyle Input Page
+
+Users enter the required clinical and lifestyle parameters to generate a 10-year coronary heart disease risk prediction.
+
+![Clinical and Lifestyle Input Form](system-screenshots/image-4.png)
+
+### 11.5 Past Assessments
+
+This module allows users to view their previous heart disease risk assessments.
+
+![Past Assessment Page](system-screenshots/image-5.png)
+
+### 11.6 Prediction Results and Report
+
+The result report displays the estimated 10-year CHD risk, feature-level explanations, and relevant assessment information.
+
+![CardioXAI Result Report - Part 1](system-screenshots/image-6.png)
+
+![CardioXAI Result Report - Part 2](system-screenshots/image-7.png)
+
 
 
 
